@@ -9,7 +9,8 @@ export const personalInfo = {
   socials: {
     github: "https://github.com/souvik-personalcr7",
     linkedin: "https://linkedin.com/in/", // Replace with actual LinkedIn
-    email: "mailto:souvik.das.81164@gmail.com"
+    email: "souvik.das.81164@gmail.com",
+    whatsapp: "https://wa.me/8637840115"
   },
   education: [
     {
